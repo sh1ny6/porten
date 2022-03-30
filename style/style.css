@@ -496,6 +496,7 @@ color: #D0D0D0;
         font-size: 20px;
     }
     .grid-bottom{
+        padding-top: 40px;
         width: 300px;
         margin: 0 auto;
     }
@@ -541,6 +542,67 @@ color: #D0D0D0;
         margin-right: 10px;
     }
     .header-bottom__text{
-        font-size: 16px;
+        font-size: 12px;
+        width: 300px;
+    }
+    .header-bottom__logo{
+        width: 200px;
+    }
+    .background{
+        background-position-x: -400px;
+    }
+    .section-upper__h2{
+        font-size: 32px;
+    }
+    .watch{
+        width: 270px;
+        height: 365px;
+        }
+    .col1-lowtext{
+        font-size: 18px;
+    }
+    .col1-uptext{
+        font-size: 20px;
+    }
+    .wt-lowtext{
+        font-size: 18px;
+    }
+    .wt-uptext{
+        font-size: 20px;
+    }
+    .section-right-scnd__lowtext{
+        font-size: 14px;
+        width: 270px;
+    }
+    .button1{
+        font-size: 18px;
+    }
+    .button2{
+        font-size: 18px;
+    }
+    .h2{
+        font-size: 30px;
+    }
+    .brands{
+        margin-top: 20px;
+    }
+    .r1{
+        font-size: 12px;
+    }
+    .r2{
+        font-size: 12px;
+    }
+    .rights{
+        width: 300px;
+    }
+    .grid-bottom{
+        flex-direction: column;
+        align-items: center;
+    }
+    .section-upper{
+        width: 360px;
+    }
+    .section-lower{
+        margin: 0 auto;
     }
 }
